@@ -118,9 +118,9 @@ git checkout main
 
 ## 👨‍💻 Equipe de Desenvolvimento e Docência
 
-- **Lucas José de Sousa Gomes** — *Coordenação, Fundamentos, Backend e Banco de Dados*
-- **Lucas Carvalho da Luz Moura** — *Frontend, Templates, Formulários e Funcionalidades*
-- **Daniel Viana de Lima** — *Autenticação, Segurança, Testes e Controle de Qualidade*
+- **Lucas José de Sousa Gomes**
+- **Lucas Carvalho da Luz Moura**
+- **Daniel Viana de Lima**
 
 ---
 
