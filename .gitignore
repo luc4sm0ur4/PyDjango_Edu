@@ -1,0 +1,23 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados local e variáveis sensíveis
+db.sqlite3
+.env
+
+# Arquivos de mídia enviados nos testes locais
+media/*
+!media/.gitkeep
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
